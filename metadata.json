@@ -1,0 +1,6 @@
+{
+  "name": "GTA Study Portal",
+  "description": "An independent, curated catalogue designed to help international students navigate 2-year, PGWP-eligible college programs located in Mississauga and the Greater Toronto Area (GTA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

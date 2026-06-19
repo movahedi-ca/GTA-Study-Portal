@@ -1,0 +1,943 @@
+{
+  "programs": [
+    {
+      "id": "sheridan-computer-programming",
+      "title": "Computer Programming",
+      "college": "Sheridan",
+      "campus": "Davis, Trafalgar",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.0201",
+      "url": "https://www.sheridancollege.ca/programs/computer-programming",
+      "description": "This curriculum presents a robust introduction to Python, mathematics, and web fundamentals. Later terms shift focus toward database management, Linux environments, and enterprise Java development. Final semester projects introduce AI concepts, mobile app creation, and professional project management strategies.",
+      "admission_requirements": [
+        "Secondary school completion equivalent to an OSSD.",
+        "Grade 12 English at the college or university level.",
+        "Senior-level mathematics credit like Grade 11 Functions or Grade 12 Math."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Computer Programmer",
+          "Web Developer",
+          "Mobile Application Engineer",
+          "Software QA Tester"
+        ],
+        "outlook": "Graduates seamlessly enter the workforce in technical capacities. These technical roles are strongly supported by current economic immigration trends."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-computer-programming",
+      "title": "Computer Programming",
+      "college": "Humber",
+      "campus": "North, Lakeshore",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.0201",
+      "url": "https://humber.ca/explore-programs/programs/computer-programming",
+      "description": "Students focus on contemporary web technologies, automated testing, and full-stack JavaScript. The initial classes cover UNIX systems, basic databases, and program planning through pseudocode. Advanced coursework tackles React Native mobile apps, Python automation, and structured enterprise testing platforms.",
+      "admission_requirements": [
+        "Completion of an OSSD or equivalent high school program.",
+        "Grade 12 English credit at a senior level.",
+        "Grade 12 Mathematics credit."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Junior Full-Stack Developer",
+          "Mobile App Engineer",
+          "Application Testing Analyst",
+          "Database Designer"
+        ],
+        "outlook": "Individuals are prepared for vital technical roles in the fast-paced web and mobile sectors. Excellent alignment with technical shortage areas in the labor market."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-computer-programming",
+      "title": "Computer Programming",
+      "college": "Seneca",
+      "campus": "Newnham",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.0201",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/CPP/admission-requirements.html",
+      "description": "This program offers deep engagement with various operating systems like Unix, Linux, and Windows. Classes revolve around IBM Business Computing, database administration, and internet logic. Students use enterprise-level tools such as Visual Studio and C/C++ compilers for hands-on assignments.",
+      "admission_requirements": [
+        "A recognized secondary school diploma.",
+        "Passing grade in Grade 12 English.",
+        "Passing grade in a senior-level Mathematics course."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Systems Analyst",
+          "Database Administrator",
+          "Junior Application Developer"
+        ],
+        "outlook": "Alumni frequently step into enterprise IT departments managing complex networks or databases. Opportunities are plentiful across corporate and startup environments."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "sheridan-cyber-security",
+      "title": "Computer Systems Technician - Cyber Security",
+      "college": "Sheridan",
+      "campus": "Hazel McCallion",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.1001",
+      "url": "https://www.sheridancollege.ca/programs/computer-systems-technician-cyber-security",
+      "description": "Focused heavily on network design, virtualization, and proactive vulnerability mitigation. Students practice threat hunting and risk assessment inside simulated Security Operations Centers. The material also touches upon scripting in Python, ethical standards, and cloud topologies.",
+      "admission_requirements": [
+        "OSSD or an equivalent diploma.",
+        "Grade 12 English course.",
+        "Grade 11 or Grade 12 Mathematics is highly recommended."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Cybersecurity Analyst",
+          "Network Support Specialist",
+          "SOC Coordinator",
+          "Cloud Security Administrator"
+        ],
+        "outlook": "Graduates discover diverse opportunities defending corporate and cloud networks. This technical proficiency remains highly prized in the current employment climate."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-computer-systems-technician",
+      "title": "Computer Systems Technician",
+      "college": "Seneca",
+      "campus": "Newnham",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.1202",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/CSN.html",
+      "description": "Students learn to configure Linux and Windows operating systems, design local area networks, and manage cloud endpoints. The program offers a cooperative education stream to blend classroom theory with workplace experience. It also aligns with professional credentials from major industry associations.",
+      "admission_requirements": [
+        "A completed secondary diploma.",
+        "Grade 12 English credit completed in Canada to satisfy language parameters."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Technical Support Analyst",
+          "Server Administrator",
+          "Cloud Support Coordinator"
+        ],
+        "outlook": "Those trained in system architectures routinely find positions handling critical computing structures. Earning additional certifications greatly enhances immediate employability."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-it-infrastructure",
+      "title": "Computer Systems Technician - IT Infrastructure and Services",
+      "college": "Humber",
+      "campus": "North, Lakeshore",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.1202",
+      "url": "https://humber.ca/explore-programs/programs/computer-systems-technician-information-technology-infrastructure-and-services",
+      "description": "Centered on hands-on diagnostic labs, this curriculum focuses on server integration, hardware communications, and data center routing. Virtualization concepts and cloud architectures are emphasized throughout. Students learn practical troubleshooting mechanisms for modern networks.",
+      "admission_requirements": [
+        "OSSD or an equivalent high school diploma.",
+        "Grade 12 English credit.",
+        "Grade 12 Mathematics credit."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Helpdesk Administrator",
+          "Computer Support Specialist",
+          "Hardware Technician",
+          "Network Operator"
+        ],
+        "outlook": "These skills place graduates at the front lines of corporate IT support. Prospects are consistently robust in standard commercial and technical sectors."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-data-centre-operations",
+      "title": "Computer Systems Technician - Data Centre Operations",
+      "college": "Humber",
+      "campus": "North",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.1202",
+      "url": "https://humber.ca/explore-programs/programs/computer-systems-technician-data-centre-operations",
+      "description": "This unique intersection of IT systems and facilities management targets industrial technical operations. Courses cover server rack geometries, Linux scripting, critical cooling mechanisms, and occupational safety. The focus is exclusively on the physical and digital maintenance of massive data centers.",
+      "admission_requirements": [
+        "Secondary school completion matching OSSD standards.",
+        "Grade 12 English credit.",
+        "Grade 12 Mathematics requirement."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Data Center Operations Technician",
+          "Infrastructure Operator",
+          "Facilities Support Specialist",
+          "Systems Administrator"
+        ],
+        "outlook": "The rapid expansion of enterprise data warehouses drives immense demand for these specialists. Roles bridge the gap between heavy infrastructure and software routing."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-civil-engineering",
+      "title": "Civil Engineering Technician",
+      "college": "Seneca",
+      "campus": "Newnham",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.0201",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/CVL.html",
+      "description": "Blending digital AutoCAD drafting with physical material testing methodologies. Students explore concrete stress limits, municipal planning constraints, and field surveying protocols. A strong emphasis rests on physical safety standards within the campus testing facilities.",
+      "admission_requirements": [
+        "A recognized high school diploma.",
+        "Grade 12 English qualification.",
+        "Grade 11 or Grade 12 mathematics component."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Civil Engineering Technician",
+          "Surveying Technician",
+          "AutoCAD Operator",
+          "Material Testing Analyst"
+        ],
+        "outlook": "Growth in suburban housing and transit lines yields substantial need for civil drafters and surveyors. Excellent alignment with regional building priorities."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "sheridan-architectural-technician",
+      "title": "Architectural Technician - Sustainable Design",
+      "college": "Sheridan",
+      "campus": "Hazel McCallion",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "04.0403",
+      "url": "https://www.sheridancollege.ca/programs/architectural-technician",
+      "description": "Based in a campus that acts as a living architectural laboratory, this study path focuses on ecologically sound residential construction. Studio courses emphasize Building Information Modeling, municipal coding, and sustainable detailing. Participants frequently solve live design challenges proposed by local government clients.",
+      "admission_requirements": [
+        "OSSD or a similar credential.",
+        "Grade 12 English credit.",
+        "Senior-level Mathematics to support structural theory."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Design Assistant",
+          "Architectural Drafter",
+          "Building Inspector",
+          "Construction Estimator"
+        ],
+        "outlook": "A focus on sustainable practices makes graduates attractive to modern design studios and municipal offices. Strong career stability given ongoing housing demands."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "george-brown-construction-engineering",
+      "title": "Construction Engineering Technician",
+      "college": "George Brown",
+      "campus": "Casa Loma",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.1001",
+      "url": "https://www.applyboard.com/schools/george-brown-college-casa-loma/programs/college-diploma-construction-engineering-technician-t161",
+      "description": "This curriculum addresses the financial and operational supervision of building sites. Instruction focuses on material costing, document interpretation, safety regulations, and quantity surveying. Students master scheduling tools alongside industry-standard structural modeling platforms.",
+      "admission_requirements": [
+        "Secondary school completion.",
+        "Grade 12 English requirement.",
+        "Passing scores in senior-level Mathematics."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Construction Estimator",
+          "Quality Control Specialist",
+          "Site Supervisor",
+          "Project Coordinator"
+        ],
+        "outlook": "Competent coordination personnel remain in severe demand across all facets of commercial and residential development in the province."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "sheridan-practical-nursing",
+      "title": "Practical Nursing",
+      "college": "Sheridan",
+      "campus": "Davis",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "51.3901",
+      "url": "https://www.sheridancollege.ca/programs/practical-nursing",
+      "description": "A highly structured program directing learners toward professional nursing licensure. The intensive syllabus explores pharmacology, mental wellness care, and complex human physiology. Clinical competencies are forged in lifelike simulation wards before transitioning to mandatory practicums in active regional hospitals.",
+      "admission_requirements": [
+        "OSSD or equivalent.",
+        "Grade 12 English and Mathematics credits.",
+        "Senior science credits in Biology and Chemistry or Physics.",
+        "Clear vulnerable sector check, CPR certification, and up-to-date immunizations prior to placement."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Registered Practical Nurse",
+          "Acute Care Nurse",
+          "Public Health Clinic Nurse",
+          "Long-Term Care Nurse"
+        ],
+        "outlook": "Healthcare roles face extreme shortages in Canada, placing nursing graduates at the forefront of employment and immigration queues."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-pharmacy-technician",
+      "title": "Pharmacy Technician",
+      "college": "Humber",
+      "campus": "North",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "51.0805",
+      "url": "https://humber.ca/explore-programs/programs/pharmacy-technician/current",
+      "description": "Trains individuals in precise pharmaceutical preparation and laboratory safety protocols. Instruction takes place in specialized compounding spaces, teaching the creation of suspensions, ointments, and sterile intravenous compounds. Learners also decipher medical shorthand and navigate complex dispensary software.",
+      "admission_requirements": [
+        "A recognized secondary school credential.",
+        "Grade 12 English credit.",
+        "Senior-level courses in Mathematics, Biology, and Chemistry."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Registered Pharmacy Technician",
+          "Hospital Dispensary Technician",
+          "Retail Pharmacy Assistant",
+          "Compounding Technician"
+        ],
+        "outlook": "Essential to the medical supply chain, trained chemical technicians encounter excellent local prospects in both commercial and clinical settings."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-fitness-health",
+      "title": "Fitness and Health Promotion",
+      "college": "Humber",
+      "campus": "North",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "31.0501",
+      "url": "Unknown",
+      "description": "Fuses the study of biomechanics and physiological science with marketing and wellness business strategies. The educational arc prepares attendees to design exercise interventions and manage independent consulting agencies. Trainees undertake robust off-campus practicums to cement their coaching styles.",
+      "admission_requirements": [
+        "OSSD or identical secondary credential.",
+        "Grade 12 English.",
+        "Senior biology, chemistry, or specialized kinesiology credits."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Personal Trainer",
+          "Fitness Consultant",
+          "Wellness Coordinator"
+        ],
+        "outlook": "Increasing public focus on preventative medicine fuels continuous demand for verified kinesiology professionals in private and civic facilities."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-fitness-health",
+      "title": "Fitness and Health Promotion",
+      "college": "Seneca",
+      "campus": "King",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "31.0501",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/FHP.html",
+      "description": "Investigates holistic health tactics, coaching mechanics, and athletic programming logic. An immersive internship component is baked into the academic timeline. Exceptional students may utilize transfer agreements to jumpstart a degree in therapeutic recreation.",
+      "admission_requirements": [
+        "A completed secondary education.",
+        "Grade 12 English requirement.",
+        "A senior credit in biology, kinesiology, or exercise science."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Sports Coach",
+          "Fitness Instructor",
+          "Wellness Program Coordinator"
+        ],
+        "outlook": "Graduates establish robust independent practices or integrate seamlessly into corporate and municipal wellness initiatives."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-ece",
+      "title": "Early Childhood Education",
+      "college": "Seneca",
+      "campus": "King, Newnham",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "19.0709",
+      "url": "https://www.bachelorsportal.com/studies/342763/early-childhood-education.html",
+      "description": "Explores the cognitive, social, and emotional emergence of young children. Key frameworks covered include anti-racism approaches, land-based education models, and culturally sensitive pedagogies. Attendees perform critical field work in legally licensed care environments to meet institutional standards.",
+      "admission_requirements": [
+        "Secondary school completion.",
+        "Grade 12 English credit taken in Canada.",
+        "Vulnerable sector check, first aid certification, and immunization proofs are strictly required for clinical placements."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Early Childhood Educator",
+          "Drop-In Center Coordinator",
+          "Full-Day Learning Assistant"
+        ],
+        "outlook": "Provincial investments in affordable childcare mean certified early educators are facing historically unprecedented hiring surges."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "sheridan-supply-chain",
+      "title": "Supply Chain Management - Logistics Automation",
+      "college": "Sheridan",
+      "campus": "Hazel McCallion",
+      "credential": "Ontario College Graduate Certificate",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "52.0203",
+      "url": "https://www.sheridancollege.ca/programs/supply-chain-management-logistics-automation",
+      "description": "Merges established logistics theory with bleeding-edge digital automation tools. Studies delve into blockchain verification, AI inventory management, procurement ethics, and risk modeling. Participants master heavy data software such as SAP ERP, Power BI, and Tableau during their mandate.",
+      "admission_requirements": [
+        "A previous post-secondary diploma or bachelor degree.",
+        "English language proficiency either through testing or prior Canadian studies."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Logistics Coordinator",
+          "Supply Chain Analyst",
+          "Procurement Specialist"
+        ],
+        "outlook": "Global transport complexities require sophisticated analysts to untangle supply knots. The integration of data analytics makes these professionals extremely valuable commodities."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-supply-chain",
+      "title": "Business - Supply Chain & Operations",
+      "college": "Seneca",
+      "campus": "Newnham",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "52.0203",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/SCO.html",
+      "description": "Tackles operational risks, purchasing protocols, storage control, and transport scheduling. Practical laboratory sessions employ generative AI modeling, data analytics software, and ERP simulations. Students can also elect to pursue a co-op term for direct corporate exposure.",
+      "admission_requirements": [
+        "Secondary school equivalent diploma.",
+        "Grade 12 English credit completed in the Canadian system."
+      ],
+      "career_outlook": {
+        "titles": [
+          "Logistics Analyst",
+          "Inventory Controller",
+          "Procurement Specialist"
+        ],
+        "outlook": "Alumni navigate crucial bottlenecks in international shipping and retail stocking routes. It remains a uniquely prioritized subset of classical business administration."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "centennial-practical-nursing-9350",
+      "title": "Practical Nursing",
+      "college": "Centennial College",
+      "campus": "Morningside Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "51.3901",
+      "url": "https://www.centennialcollege.ca/programs-courses/full-time/practical-nursing",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=51.3901. A highly rigorous clinical program preparing students to deliver safe, competent, and ethical nursing care. Focuses heavily on simulation labs and extensive direct patient care placements.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics",
+        "Senior Biology or Chemistry/Physics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Registered Practical Nurse",
+          "Clinical Nurse"
+        ],
+        "outlook": "Highly lucrative and protected employment sector; provides a structured pathway toward Express Entry eligibility under healthcare priority draws."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-practical-nursing-07041",
+      "title": "Practical Nursing",
+      "college": "Humber Polytechnic",
+      "campus": "North Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "51.3901",
+      "url": "https://humber.ca/explore-programs/programs/practical-nursing",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=51.3901. Blends nursing theory with hands-on clinical practice to prepare compassionate frontline healthcare workers. Students engage in complex clinical reasoning and evidence-informed practice.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics",
+        "Senior Biology or Chemistry/Physics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Registered Practical Nurse",
+          "Clinical Nurse"
+        ],
+        "outlook": "Guaranteed integration into Ontario's healthcare system, addressing systemic clinical labor shortages across municipal and private health networks."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "May 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-practical-nursing-pnd",
+      "title": "Practical Nursing",
+      "college": "Seneca Polytechnic",
+      "campus": "Newnham Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "51.3901",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/PND.html",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=51.3901. A comprehensive nursing program heavily prioritizing hands-on deployment in clinical environments. Trains students in modern medical technology and holistic patient advocacy.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics",
+        "Senior Biology or Chemistry/Physics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Registered Practical Nurse",
+          "Clinical Nurse"
+        ],
+        "outlook": "Exceptional career stability with vast opportunities for upward mobility through structured RPN to BScN bridging programs."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "george-brown-early-childhood-c100",
+      "title": "Early Childhood Education",
+      "college": "George Brown College",
+      "campus": "Toronto Metropolitan University Campus",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "19.0709",
+      "url": "https://www.georgebrown.ca/programs/early-childhood-education-program-c100",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=19.0709. Provides theoretical knowledge and practical experience to support the holistic developmental needs of children from birth to 12 years. Alternates blocks of classroom theory with direct field practice.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Early Childhood Educator",
+          "Childcare Center Administrator",
+          "Pediatric Program Assistant"
+        ],
+        "outlook": "Strong employment prospects supported heavily by federal affordable childcare initiatives, allowing immediate integration into municipal and private pedagogical facilities."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-early-childhood-07911",
+      "title": "Early Childhood Education",
+      "college": "Humber Polytechnic",
+      "campus": "North Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "19.0709",
+      "url": "https://humber.ca/explore-programs/programs/early-childhood-education",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=19.0709. Prepares students to work with children up to 12 years. Curriculum heavily focuses on responsive, play-based learning environments and incorporates 500-600 hours of practical field experience.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Early Childhood Educator",
+          "Childcare Center Administrator"
+        ],
+        "outlook": "Highly lucrative and protected employment sector; graduates fulfill requirements to register with the College of Early Childhood Educators."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "sheridan-early-childhood-peced",
+      "title": "Early Childhood Education",
+      "college": "Sheridan College",
+      "campus": "Davis Campus (Brampton) & Trafalgar Campus (Oakville)",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "19.0709",
+      "url": "https://www.sheridancollege.ca/programs/early-childhood-education",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=19.0709. Applies research-based theory to practical experiences encouraging young children's growth. Features distinct field placements in diverse settings including simulated early learning classrooms.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Early Childhood Educator",
+          "Childcare Center Administrator"
+        ],
+        "outlook": "Grants eligibility for registration with the CECE, unlocking secure employment paths with direct bridging options into the Bachelor of Early Childhood Leadership."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "centennial-computer-systems-technician-3404",
+      "title": "Computer Systems Technician - Networking",
+      "college": "Centennial College",
+      "campus": "Progress Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.1001",
+      "url": "https://www.centennialcollege.ca/programs-courses/full-time/networking-computer-systems-technician",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=11.1001. Explores the intricacies of modern computer hardware, operating systems, and network technology. Students gain hands-on experience in assembling infrastructure and managing real-world virtualization platforms.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "IT Support Specialist",
+          "Network Administrator",
+          "Systems Analyst"
+        ],
+        "outlook": "Graduates launch careers in technical support across the rapidly expanding internet, intranet, extranet, and telecommunications network fields."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "george-brown-computer-systems-t141",
+      "title": "Computer Systems Technician",
+      "college": "George Brown College",
+      "campus": "Casa Loma Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.1001",
+      "url": "https://www.georgebrown.ca/programs/computer-systems-technician-program-t141",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=11.1001. Delivers a broad technical base through applied courses in system support, network administration, and web technologies. Focuses on strong administration, troubleshooting, and architectural design skills.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "IT Support Specialist",
+          "Network Administrator",
+          "Systems Analyst"
+        ],
+        "outlook": "Provides a highly efficient trajectory into the GTA's technology sectors, addressing critical shortages in localized enterprise IT support."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-computer-systems-csn",
+      "title": "Computer Systems Technician",
+      "college": "Seneca Polytechnic",
+      "campus": "Newnham Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "11.1001",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/CSN.html",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=11.1001. Prepares students for IT administration through practical training in networking, operating systems, security, and cloud computing. Covers the design of sophisticated software-defined networks.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "IT Support Specialist",
+          "Network Administrator",
+          "Systems Analyst"
+        ],
+        "outlook": "Highly employable within corporate data centers and enterprise IT environments, possessing skills directly aligned with long-term technological shortages."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "centennial-biotechnology-fast-track-3622",
+      "title": "Biotechnology - Advanced (Fast-Track)",
+      "college": "Centennial College",
+      "campus": "Morningside Campus, Toronto",
+      "credential": "Ontario College Advanced Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "41.0101",
+      "url": "https://www.centennialcollege.ca/programs-courses/full-time/biotechnology-advanced-fast-track",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=41.0101. An accelerated pathway allowing qualified graduates direct admission into Year 2. Focuses intensely on scientific principles, industrial microbiology, analytical chemistry, and strict laboratory safety.",
+      "admission_requirements": [
+        "Previous post-secondary diploma or bachelor's degree",
+        "English language proficiency"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Laboratory Technician",
+          "Quality Control Analyst"
+        ],
+        "outlook": "High demand within the pharmaceutical, cosmetics, and food production industries, offering specialized skills that fulfill critical scientific labor shortages."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-veterinary-technician-vte",
+      "title": "Veterinary Technician",
+      "college": "Seneca Polytechnic",
+      "campus": "King Campus",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "01.8301",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/VTE.html",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=01.8301. Equips students to assist practitioners through comprehensive studies in animal nutrition, clinical pathology, and radiography. Features immersive clinical shifts at the on-campus Animal Health Centre.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics",
+        "Senior Biology or Chemistry/Physics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Veterinary Technician",
+          "Animal Health Technologist"
+        ],
+        "outlook": "Graduates are eligible to complete the Veterinary Technician National Examination, opening secure pathways into specialized veterinary clinics and research institutes."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "seneca-electronics-engineering-een",
+      "title": "Electronics Engineering Technician",
+      "college": "Seneca Polytechnic",
+      "campus": "Newnham Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "15.0303",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/EEN.html",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=15.0303. Synthesizes theoretical knowledge of electronic devices with hands-on laboratory experience. Incorporates proprietary curriculum from industry leaders like Siemens, Keysight, and Autodesk.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English",
+        "Grade 12 Mathematics"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Electronics Technologist",
+          "Field Service Representative"
+        ],
+        "outlook": "Directly feeds the advanced manufacturing, aerospace, and telecommunications sectors across the industrial corridors of the GTA."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    },
+    {
+      "id": "humber-food-nutrition-14151",
+      "title": "Food and Nutrition Management",
+      "college": "Humber Polytechnic",
+      "campus": "North Campus, Toronto",
+      "credential": "Ontario College Diploma",
+      "duration": "2 Years (4 Semesters)",
+      "cip_code": "19.0505",
+      "url": "https://humber.ca/explore-programs/programs/food-and-nutrition-management",
+      "description": "CIP Reference: https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=1486451&CVD=1486462&CPV=19.0505. Prepares students for supervisory roles that intersect the dynamic culinary industries with the complex physiological and dietary demands of the healthcare sector.",
+      "admission_requirements": [
+        "OSSD or equivalent",
+        "Grade 12 English"
+      ],
+      "career_outlook": {
+        "titles": [
+          "Nutrition Manager",
+          "Dietary Supervisor"
+        ],
+        "outlook": "Graduates possess highly specialized skills sought after in hospitals, long-term care facilities, and retirement communities, ensuring robust employment stability."
+      },
+      "pgwp_status": "Eligible",
+      "intakes": [
+        "September 2026",
+        "January 2027"
+      ],
+      "last_verified": "June 19, 2026"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Networking - Computer Systems Technician",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Software Engineering Technician",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list. Contains PGWP ineligible variants."
+    },
+    {
+      "title": "Heating, Refrigeration and Air Conditioning Technician",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Practical Nursing",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Fitness and Health Promotion",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Early Childhood Education",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Community Development Work",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    },
+    {
+      "title": "Business - Supply Chain and Operations",
+      "college": "Centennial College",
+      "reason": "Institution is omitted from the designated focus list."
+    }
+  ]
+}
