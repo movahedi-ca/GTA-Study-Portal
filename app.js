@@ -18,21 +18,29 @@ function initTheme() {
     const sunIcon = document.querySelector('.sun-icon');
     const moonIcon = document.querySelector('.moon-icon');
     
+    // Safe storage access to prevent iframe cross-origin SecurityErrors
+    const safeGetItem = (storage, key) => {
+        try { return storage.getItem(key); } catch (e) { return null; }
+    };
+    const safeSetItem = (storage, key, value) => {
+        try { storage.setItem(key, value); } catch (e) {}
+    };
+
     // Check local storage or system preference
-    const savedTheme = localStorage.getItem('theme');
+    const savedTheme = safeGetItem(localStorage, 'theme');
     const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
     
     const setTheme = (isDark) => {
         if (isDark) {
             document.documentElement.setAttribute('data-theme', 'dark');
-            sunIcon.style.display = 'none';
-            moonIcon.style.display = 'block';
-            localStorage.setItem('theme', 'dark');
+            if (sunIcon) sunIcon.style.display = 'none';
+            if (moonIcon) moonIcon.style.display = 'block';
+            safeSetItem(localStorage, 'theme', 'dark');
         } else {
             document.documentElement.removeAttribute('data-theme');
-            sunIcon.style.display = 'block';
-            moonIcon.style.display = 'none';
-            localStorage.setItem('theme', 'light');
+            if (sunIcon) sunIcon.style.display = 'block';
+            if (moonIcon) moonIcon.style.display = 'none';
+            safeSetItem(localStorage, 'theme', 'light');
         }
     };
 
@@ -52,14 +60,18 @@ function initDisclaimer() {
     const dismissBtn = document.getElementById('dismiss-banner');
     
     // Check session storage (reappears each session per reqs)
-    if (sessionStorage.getItem('disclaimerDismissed')) {
-        banner.classList.add('dismissed');
-    }
+    try {
+        if (sessionStorage.getItem('disclaimerDismissed')) {
+            if (banner) banner.classList.add('dismissed');
+        }
+    } catch (e) { /* ignore security error in iframes */ }
 
-    dismissBtn.addEventListener('click', () => {
-        banner.classList.add('dismissed');
-        sessionStorage.setItem('disclaimerDismissed', 'true');
-    });
+    if (dismissBtn) {
+        dismissBtn.addEventListener('click', () => {
+            if (banner) banner.classList.add('dismissed');
+            try { sessionStorage.setItem('disclaimerDismissed', 'true'); } catch (e) {}
+        });
+    }
 }
 
 // Data Fetching and Initialization
