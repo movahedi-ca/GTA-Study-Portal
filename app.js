@@ -3,11 +3,17 @@
  * Client-Side Application Logic
  */
 
-document.addEventListener('DOMContentLoaded', () => {
+const initApp = () => {
     initTheme();
     initDisclaimer();
     fetchAndRenderPrograms();
-});
+};
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initApp);
+} else {
+    initApp();
+}
 
 let programsData = [];
 let campusesSet = new Set();
